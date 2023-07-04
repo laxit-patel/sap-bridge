@@ -1,0 +1,24 @@
+# Composer
+/vendor
+/composer.lock
+
+# IDE/Editor specific
+.idea
+.vscode
+
+# Testing artifacts
+/phpunit.xml
+/phpunit.xml.dist
+/tests/coverage
+/tests/report
+
+# Environment specific
+/.env
+
+# Miscellaneous
+/.phpunit.result.cache
+/.php_cs.cache
+
+# Logs
+/log
+*.log
